@@ -1,0 +1,1 @@
+npm install -D webpack-cli webpack-merge html-webpack-plugin ts-loader style-loader css-loader
